@@ -1,7 +1,3 @@
-🎙️ Video Presentation Speech
-[1. Introduction & Hook] (0:00 - 0:20)
-(Camera aapke face par hoga, confident tone me bolein)
-
 "Hey everyone! Aaj ke is video me, main aapko apna Student Performance & Attendance Tracker project explain karne wala hoon, jise maine MySQL ka use karke develop kiya hai.
 
 Educational institutions me students ka record keep karna, daily attendance track karna, aur performance analysis karna kafi complex hota hai. Lekin is system ki madad se hum in sabhi tasks ko efficiently automate aur manage kar sakte hain."
